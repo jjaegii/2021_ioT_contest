@@ -1,0 +1,1 @@
+gcc LCD_I2C.c run.c -o run -lwiringPi
