@@ -1,0 +1,27 @@
+# 2021_ioT_contest
+2021년 겨울방학 ioT경진대회 자동공동현관문 팀프로젝트
+
+### [발표 영상](https://user-images.githubusercontent.com/77189999/183679210-b83f0bd3-9860-4bb1-9728-a97a344e3038.mp4)
+
+![슬라이드0001](https://user-images.githubusercontent.com/77189999/183679846-4795f540-8c3b-4424-9d82-e1e27c7e6ead.png)
+![슬라이드0002](https://user-images.githubusercontent.com/77189999/183679851-13b33130-8131-4bc0-aebe-56cec6d78d65.png)
+![슬라이드0003](https://user-images.githubusercontent.com/77189999/183679720-ddb9bec2-fcb1-4cc3-9c2f-7b4215489eea.png)
+![슬라이드0004](https://user-images.githubusercontent.com/77189999/183679732-7915d628-9e4d-4778-af3d-8964726091b0.png)
+![슬라이드0005](https://user-images.githubusercontent.com/77189999/183679744-a9bcebfd-bd9b-413a-bf73-927eea223d12.png)
+![슬라이드0006](https://user-images.githubusercontent.com/77189999/183679750-0f58c809-47ff-4aa4-8033-22f97231b59a.png)
+![슬라이드0007](https://user-images.githubusercontent.com/77189999/183679757-39fba7d7-44d4-4d27-af88-467aa1e25178.png)
+![슬라이드0008](https://user-images.githubusercontent.com/77189999/183679761-16ac2394-073c-4f7d-8abb-3802e73a4011.png)
+![슬라이드0009](https://user-images.githubusercontent.com/77189999/183679764-6d7216ae-855f-42e6-ba9a-32090f57d49b.png)
+![슬라이드0010](https://user-images.githubusercontent.com/77189999/183679769-20c7cc27-1087-428f-8193-0d8e282a0e0c.png)
+![슬라이드0011](https://user-images.githubusercontent.com/77189999/183679775-da8bc94d-b800-444d-9d71-5e15cf64c62f.png)
+![슬라이드0012](https://user-images.githubusercontent.com/77189999/183679781-4a03b584-8f92-4e1f-bb92-696d0328f9f3.png)
+![슬라이드0013](https://user-images.githubusercontent.com/77189999/183679785-ae95fae5-ef5c-41fd-a532-a9e61e166b1d.png)
+![슬라이드0014](https://user-images.githubusercontent.com/77189999/183679790-e4cb79b1-2b01-40d4-a031-6afa24f8faac.png)
+![슬라이드0015](https://user-images.githubusercontent.com/77189999/183679795-9152de69-2e4f-4d1d-ab4b-e93a2d2d6705.png)
+![슬라이드0016](https://user-images.githubusercontent.com/77189999/183679801-23c4aeb7-30c1-48a4-8e41-c7360e0db17a.png)
+![슬라이드0017](https://user-images.githubusercontent.com/77189999/183679806-50ef4d8c-1ed4-4585-9964-5fc39251653d.png)
+![슬라이드0018](https://user-images.githubusercontent.com/77189999/183679814-c186d1e9-7dc2-4d20-9b30-6ee9da053170.png)
+![슬라이드0019](https://user-images.githubusercontent.com/77189999/183679818-8cda9525-ffdf-4cc0-a572-5f4cad38c092.png)
+![슬라이드0020](https://user-images.githubusercontent.com/77189999/183679824-cb99bbd5-c94e-4e70-b9ac-e69a1140a6f7.png)
+![슬라이드0021](https://user-images.githubusercontent.com/77189999/183679830-241e5fd6-db96-4f70-b17c-2eeb01a9192a.png)
+![슬라이드0022](https://user-images.githubusercontent.com/77189999/183679837-c00af1e3-369f-4a4b-810c-e8d155b35375.png)
